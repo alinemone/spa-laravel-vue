@@ -1,0 +1,14 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+@import "~sweetalert2/dist/sweetalert2.min.css";
+@import "~animate.css/animate.min.css";
+@import "~vazir-font/dist/font-face.css";
+
+body{
+    font-family: "vazir","Nunito", sans-serif;
+}
